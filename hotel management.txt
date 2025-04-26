@@ -1,0 +1,19 @@
+
+                       Hotel Management
+Introduction
+Purpose
+                 To manage hotel operations like booking,customer check-in/out,billing and        staff
+      2.   Scope
+                 System includes room booking,billing,customer check outs and staff management
+
+Requriments
+   Functional Requriments
+ View and book availabel rooms
+      Manage check -in 
+      Generate and manage bills
+      Admin can manage rooms,staff and services
+
+      2.  Non functional requriments
+     System should be user-friendly and responsive
+     Data should be secure and backed up
+     Must work on browsers and mobile devices
